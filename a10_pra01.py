@@ -1,5 +1,5 @@
+print('AULA 010- CONDIÇÕES I')
 import emoji
-print('AULA 09 - CONDIÇÕES I')
 
 time = int(input('\nQuanto tempo tem seu veículo (em anos): '))
 if time <= 5:

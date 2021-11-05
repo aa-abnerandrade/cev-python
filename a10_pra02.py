@@ -1,4 +1,5 @@
-print('AULA 09 - CONDIÇÕES I')
+print('AULA 10 - CONDIÇÕES I')
+
 print('\nDIÁRIO DIGITAL DO PROFESSOR')
 av1 = float(input('Informe a nota da prova 1: '))
 av2 = float(input('Informe a nota da prova 2: '))

@@ -1,4 +1,4 @@
-print('AULA 08 - MANIPULANDO TEXTO')
+print('AULA 09 - MANIPULANDO TEXTO')
 
 print()
 frase = 'Curso em Vídeo Python'
