@@ -1,6 +1,8 @@
 print('\033[1;7;40m AULA 16: TUPLAS \033[m\n')
 
 names = ('Tony', 'Maria', 'Ana', 'Sofia', 'José', 'João', 'André')
+print(names)
+print()
 
 print('*** Colocando em ordem* com SORTED:')
 print(sorted(names))

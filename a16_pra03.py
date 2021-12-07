@@ -6,8 +6,8 @@ a = (1, 8, 5, 10)
 b = (21, 10, 13, 93, 70)
 c = a + b
 print('Sim, aqui a ordem altera o resultado final: ')
-print(a+b)
-print(b+a)
+print(f' a + b: {a+b}')
+print(f' b + a: {b+a}')
 print(f'Colocando em ordem com SORTED: {sorted(c)}')
 
 print('\nALGUMAS FUNÇÕES')
