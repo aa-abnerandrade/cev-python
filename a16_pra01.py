@@ -31,6 +31,6 @@ for cont in names:
 print('Dessa forma é possível fazer muito mais só com o contador. ;) \nPorém, não dá pra mostrar a posição. ')
 
 print('\n*** Utilizando ENEMURATE:')
-for pos, cont in enumerate(names):
+for pos, cont in enumerate(names[0:4]):
     print(f'Nome: {cont}, na posição {pos}')
 
