@@ -1,4 +1,4 @@
-print('\033[1;7;30m AULA 17: LISTAS \033[m')
+print('\033[1;7;30m AULA 17: LISTAS I \033[m')
 
 print('\n\033[1;7;40m DECLARANDO LISTAS \033[m')
 

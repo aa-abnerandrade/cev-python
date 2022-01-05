@@ -1,4 +1,4 @@
-print('\033[1;7;30m AULA 17: LISTAS \033[m')
+print('\033[1;7;30m AULA 17: LISTAS I \033[m')
 
 print('\n\033[1;7;40m PECULIARIDADES DAS LISTAS \033[m')
 print('Quando fazemos uma lista receber outra, criamos uma LIGAÇÃO entre as duas.')
